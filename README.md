@@ -1,5 +1,8 @@
 # URL-detection-nb
-Some example notebooks from URL Detection Masters Thesis Project.
+
+Some example notebooks from URL Detection Masters Thesis Project. Model is using XGBoost to determine the safety of vising a URL. 
+
+Includes a URLFeatureGenerator which queries multiple data sources (e.g. WHOIS) for features.
 
 **notebooks/02_Feature_Engineering&Collection.ipynb**
 
